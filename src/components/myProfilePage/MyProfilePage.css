@@ -1,0 +1,164 @@
+.profile-image{
+    display: block;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 10em;
+    height: 10em;
+}
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    color: #272727;
+    font-size: 2em;
+}
+
+.bio-text{
+    text-align: center;
+    padding: 15px 30px;
+    border: 1px solid #939597;
+    border-radius: 20px;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+}
+
+.my-profile-section{
+    width:40%;
+    margin: auto;
+    position: relative;
+}
+
+.label-about-me{
+    margin-left: 30px;
+    font-size: .7em;
+}
+
+.select{
+    height: 30px;
+    width: 100%;
+    border: 1px solid #939597;
+    border-radius: 30px;
+    text-align: center;
+    text-align-last: center;
+;
+}
+
+.height-input{
+    width: 100%;
+    height: 30px;
+    border: 1px solid #939597;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.info-container{
+    margin-top: 0px;
+}
+
+.left-label{
+    margin-left: 15px;
+    font-size: .7em;
+}
+
+.center-label{
+    text-align: center;
+    font-size: .7em;
+}
+
+.nationality-div{
+    width: 200px;
+    margin-left: auto;
+}
+
+.height-div{
+    width: 85px;
+    text-align: center;
+}
+
+.dropdown{
+    margin-top: 10px;
+    position: relative;
+    display: block;
+}
+
+.dropdown:hover{
+    cursor: default;
+}
+
+.dropdown-content-hide{
+    display: none;
+    position:absolute;
+
+}
+
+.dropdown-content-show{
+    display: block
+}
+
+.looking-for-div{
+    width: 250px;
+}
+
+.radio-gender{
+    margin-top: 15px;
+}
+
+#radio-2{
+    margin-left: 15px;
+}
+
+.button-other{
+    background-color: #fff;
+    width: 100px;
+    border: 1px solid #939597;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+
+.bio-text, .select, button, input{
+    outline: none;
+    font-size: .9em;
+}
+
+textarea{
+    resize: none;
+}
+
+.sport-div{
+    width: 160px;
+}
+
+.education-div{
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pets-div{
+    width: 160px;
+}
+
+.gender-label{
+    font-size: .9em;
+}
+
+.row-info{
+    margin-top: 15px
+}
+
+.alcohol-div{
+    width: 160px;
+}
+
+.smoking-div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 160px;
+}
+
+.children-div{
+    width: 160px;
+}
+

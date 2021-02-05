@@ -1,0 +1,10 @@
+.header{
+    background-color: #F5DF4D;
+    border-radius: 0 0 15px 15px;
+    padding: .3rem 1rem;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 1.6em;
+}

@@ -1,0 +1,37 @@
+.search-item{
+    text-align: center;
+    width: 177px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    position: relative;
+}
+
+img.photo-search{
+    height: 100%;
+    width: 100%;
+    border-radius: 25px;
+}
+
+.col-search{
+    margin: 30px auto;
+    width:200px;
+}
+
+.search-item-overlay{
+    position: absolute;
+    background-color: #272727;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    color: white;
+    height: 28px;
+    border-radius: inherit;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
